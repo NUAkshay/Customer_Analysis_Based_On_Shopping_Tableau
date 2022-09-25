@@ -1,4 +1,4 @@
-Customer Analysis Based On Shopping Using Tableau 📈🛒
+Customer Analysis Based On Shopping Using Tableau 🛒🛍
 
 About this Project:
 
